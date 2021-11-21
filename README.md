@@ -1,4 +1,4 @@
 # HackerRankSolutions
 ![alt text][logo]
 
-[logo]: https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png
+[logo]: https://www.pngrepo.com/png/314107/180/hackerrank.png
